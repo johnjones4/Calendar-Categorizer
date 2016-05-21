@@ -1,0 +1,26 @@
+{
+  "name": "calendar-categorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjones4/Calendar-Categorizer.git"
+  },
+  "author": "John Jones <johnjones4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjones4/Calendar-Categorizer/issues"
+  },
+  "homepage": "https://github.com/johnjones4/Calendar-Categorizer#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "ical": "^0.5.0",
+    "icalendar": "^0.7.1",
+    "request": "^2.72.0",
+    "rrule": "^2.1.0"
+  }
+}

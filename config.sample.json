@@ -1,0 +1,10 @@
+{
+  "ics": "http://url-to-ics-feed",
+  "dateRange": {
+    "start": "May 01 2016 00:00:00 GMT-0400 (EDT)",
+    "end": "June 1 2016 00:00:00 GMT-0400 (EDT)"
+  },
+  "categories": {
+    "Admin": ["Weekly Staff Meeting"]
+  }
+}
